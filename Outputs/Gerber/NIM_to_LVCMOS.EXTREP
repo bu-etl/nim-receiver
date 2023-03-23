@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: NIM_to_LVCMOS.GBR   3/23/2023  12:27:39 PM
+Gerber File Extension Report For: NIM_to_LVCMOS.GBR   3/23/2023  12:30:15 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -17,5 +17,4 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM4                Outline                                 
-.GM15               Mechanical 15                           
 ------------------------------------------------------------------------------------------

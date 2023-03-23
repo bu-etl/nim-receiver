@@ -5,8 +5,8 @@ Z:\NIM_to_LVCMOS\Outputs\Pick Place\Pick Place for NIM_to_LVCMOS.txt
 File Design Information:
 
 Date:       23/03/23
-Time:       12:27
-Revision:   0b890f4b0581a544bc7221fae01c3af70ec999e7
+Time:       12:30
+Revision:   f04ed84ee977ceff38249ad42c08e490707b1e36
 Variant:    No variations
 Units used: mil
 
