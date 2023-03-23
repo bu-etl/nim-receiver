@@ -4,13 +4,14 @@ Z:\NIM_to_LVCMOS\Outputs\Pick Place\Pick Place for NIM_to_LVCMOS.txt
 ========================================================================================================================
 File Design Information:
 
-Date:       01/02/23
-Time:       10:17
-Revision:   Not in VersionControl
+Date:       23/03/23
+Time:       12:27
+Revision:   0b890f4b0581a544bc7221fae01c3af70ec999e7
 Variant:    No variations
 Units used: mil
 
 Designator Comment          Layer       Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                                                    
+J5         SMA              BottomLayer RF249BT0050GHDW        246.786       489.959       0        "Conn SMA 0Hz to 6GHz 50Ohm Solder RA Thru-Hole RCP Gold"                                                      
 FB2        BLM18PG471SN1D   TopLayer    FP-BLM18-0_15-t0_8-MFG 1860.000      250.000       180      "Chip Ferrite Bead, 0603, 470O @ 100MHz, 0.2O, 25%, 1A"                                                        
 FB1        BLM18PG471SN1D   TopLayer    FP-BLM18-0_15-t0_8-MFG 2460.000      1290.000      0        "Chip Ferrite Bead, 0603, 470O @ 100MHz, 0.2O, 25%, 1A"                                                        
 C18        22uF             TopLayer    FP-CL31H-0_2-MFG       2626.358      1410.000      0        "CAP CER 22UF 25V X5R 1206"                                                                                    
@@ -19,7 +20,6 @@ C1         22uF             TopLayer    FP-CL31H-0_2-MFG       2630.000      154
 R5         33               TopLayer    R0805                  750.000       650.000       90       "Res Thick Film 0805 33 Ohm 1% 1/8W +/-100ppm/ßC Molded SMD Paper T/R"                                         
 C16        0.1uF            TopLayer    CL21B104KACNNNC        1750.000      220.000       90       "CAP CER 0.1UF 25V X7R 0805"                                                                                   
 C15        0.1uF            TopLayer    CL21B104KACNNNC        1540.000      223.464       90       "CAP CER 0.1UF 25V X7R 0805"                                                                                   
-J5         SMA              BottomLayer RF249BT0050GHDW        246.786       489.959       0        "Conn SMA 0Hz to 6GHz 50Ohm Solder RA Thru-Hole RCP Gold"                                                      
 J4         SMA              BottomLayer RF249BT0050GHDW        246.786       978.878       0        "Conn SMA 0Hz to 6GHz 50Ohm Solder RA Thru-Hole RCP Gold"                                                      
 J3         SMA              BottomLayer RF249BT0050GHDW        246.786       1525.251      0        "Conn SMA 0Hz to 6GHz 50Ohm Solder RA Thru-Hole RCP Gold"                                                      
 C17        22uF             TopLayer    FP-CL31H-0_2-MFG       1660.000      880.000       270      "CAP CER 22UF 25V X5R 1206"                                                                                    

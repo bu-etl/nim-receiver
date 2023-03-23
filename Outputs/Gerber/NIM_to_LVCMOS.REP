@@ -2,23 +2,41 @@
 FileName = NIM_to_LVCMOS.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : NIM_to_LVCMOS.GBL
+Generating : Mechanical 15
+      File : NIM_to_LVCMOS.GM15
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 15
 
 
 Used DCodes :
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
+    D66
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : NIM_to_LVCMOS.GM4
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : NIM_to_LVCMOS.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D13
+    D54
+    D65
+    D66
+    D67
 *************************************************************
 
 *************************************************************
@@ -36,58 +54,25 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : NIM_to_LVCMOS.GBO
+Generating : Bottom Solder
+      File : NIM_to_LVCMOS.GBS
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Solder
 
-
-Used DCodes :
-    D13
-    D51
-    D65
-    D66
-    D67
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : NIM_to_LVCMOS.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D66
-    D68
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : NIM_to_LVCMOS.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
 *************************************************************
 
 *************************************************************
@@ -127,10 +112,51 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : NIM_to_LVCMOS.GBS
+Generating : Top Paste
+      File : NIM_to_LVCMOS.GTP
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : NIM_to_LVCMOS.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : NIM_to_LVCMOS.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -138,14 +164,47 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : NIM_to_LVCMOS.G2
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D52
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : NIM_to_LVCMOS.G1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D56
+    D57
+    D59
+    D60
+    D62
 *************************************************************
 
 *************************************************************
@@ -187,53 +246,5 @@ Used DCodes :
     D60
     D61
     D62
-*************************************************************
-
-*************************************************************
-Generating : Layer 1
-      File : NIM_to_LVCMOS.G1
-
-    Adding Layer      : Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D56
-    D57
-    D59
-    D60
-    D62
-*************************************************************
-
-*************************************************************
-Generating : Layer 2
-      File : NIM_to_LVCMOS.G2
-
-    Adding Layer      : Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D49
-    D62
-    D63
-    D64
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : NIM_to_LVCMOS.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
 *************************************************************
 
