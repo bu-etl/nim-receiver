@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [NIM_to_LVCMOS.SchDoc]
+   Generated File[Bill of Materials-NIM_to_LVCMOS.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:17:35 AM On 2/1/2023

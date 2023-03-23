@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: NIM_to_LVCMOS.PcbDoc   2/1/2023  10:17:31 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NIM_to_LVCMOS-RoundHoles.TXT
+ASCII SlotHoles File : NIM_to_LVCMOS-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             46        PTH        14.73inch (374.21mm)
+T2      47mil (1.2mm)                                             Slot              4         PTH        1.82inch (46.15mm)
+T3      59mil (1.5mm)                                             Round             4         PTH        3.61inch (91.57mm)
+T4      67mil (1.7mm)                                             Round             16        PTH        5.74inch (145.85mm)
+T5      134mil (3.4mm)                                            Round             4         PTH        8.30inch (210.72mm)
+T6      63mil (1.6mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              75
+
+Total Processing Time (hh:mm:ss) : 00:00:01

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: Z:\NIM_to_LVCMOS\NIM_to_LVCMOS.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=nim_to_lvcmos-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=nim_to_lvcmos-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

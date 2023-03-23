@@ -1,0 +1,61 @@
+Altium Designer Pick and Place Locations
+Z:\NIM_to_LVCMOS\Outputs\Pick Place\Pick Place for NIM_to_LVCMOS.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/02/23
+Time:       10:17
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment          Layer       Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                                                    
+FB2        BLM18PG471SN1D   TopLayer    FP-BLM18-0_15-t0_8-MFG 1860.000      250.000       180      "Chip Ferrite Bead, 0603, 470O @ 100MHz, 0.2O, 25%, 1A"                                                        
+FB1        BLM18PG471SN1D   TopLayer    FP-BLM18-0_15-t0_8-MFG 2460.000      1290.000      0        "Chip Ferrite Bead, 0603, 470O @ 100MHz, 0.2O, 25%, 1A"                                                        
+C18        22uF             TopLayer    FP-CL31H-0_2-MFG       2626.358      1410.000      0        "CAP CER 22UF 25V X5R 1206"                                                                                    
+C2         2.2uF            TopLayer    CL21B225KAFNFNE        2420.000      1480.000      270      "CAP CER 2.2UF 25V X7R 0805"                                                                                   
+C1         22uF             TopLayer    FP-CL31H-0_2-MFG       2630.000      1540.000      0        "CAP CER 22UF 25V X5R 1206"                                                                                    
+R5         33               TopLayer    R0805                  750.000       650.000       90       "Res Thick Film 0805 33 Ohm 1% 1/8W +/-100ppm/ßC Molded SMD Paper T/R"                                         
+C16        0.1uF            TopLayer    CL21B104KACNNNC        1750.000      220.000       90       "CAP CER 0.1UF 25V X7R 0805"                                                                                   
+C15        0.1uF            TopLayer    CL21B104KACNNNC        1540.000      223.464       90       "CAP CER 0.1UF 25V X7R 0805"                                                                                   
+J5         SMA              BottomLayer RF249BT0050GHDW        246.786       489.959       0        "Conn SMA 0Hz to 6GHz 50Ohm Solder RA Thru-Hole RCP Gold"                                                      
+J4         SMA              BottomLayer RF249BT0050GHDW        246.786       978.878       0        "Conn SMA 0Hz to 6GHz 50Ohm Solder RA Thru-Hole RCP Gold"                                                      
+J3         SMA              BottomLayer RF249BT0050GHDW        246.786       1525.251      0        "Conn SMA 0Hz to 6GHz 50Ohm Solder RA Thru-Hole RCP Gold"                                                      
+C17        22uF             TopLayer    FP-CL31H-0_2-MFG       1660.000      880.000       270      "CAP CER 22UF 25V X5R 1206"                                                                                    
+U9         MAX1673          TopLayer    MAX1673ESA+T           1617.480      1076.654      0        "5.5 V 125 mA 460kHz Charge Pump SMT Switching Regulator - SOIC-8"                                             
+U8         SN65LVDS1D       TopLayer    SN65LVDS1D             930.000       250.000       180      "630-Mbps single LVDS driver 8-SOIC -40 to 85"                                                                 
+U7         SN74LV1T34DBVR   TopLayer    SN74LV1T34-DBV         920.000       570.000       180      "IC BUFFER GATE SGL CMOS SOT23-5"                                                                              
+U6         MC74VHC1GT14DTT1 TopLayer    MC74VHC1GT14DTT1       1343.543      480.866       180      "Inverter Schmitt Trigger Sgl Cmos 5TSOP"                                                                      
+U5         SY100ELT25ZG-TR  TopLayer    SY100ELT25ZG-TR        1647.874      441.339       180      "Dual Diff Ecl To Ttl Translator, 8 Soic 3.90Mm(.150In) T/R"                                                   
+U4         BD00KA5WF        TopLayer    BD00KA5WF-E2           978.504       1678.504      0        "LDO Regulator Pos 1V to 4V 0.5A Automotive 8-Pin SOP T/R"                                                     
+U3         BD00KA5WF        TopLayer    BD00KA5WF-E2           1587.323      1678.504      0        "LDO Regulator Pos 1V to 4V 0.5A Automotive 8-Pin SOP T/R"                                                     
+U2         LT3080EST        TopLayer    LT-ST-3-SOT-223_N      1960.000      1740.000      90       "Adjustable 1.1 A Single Resistor Low Dropout Regulator, 0.3 mA Isupply, 3-pin SOT223 (ST-3), -40 to 125 degC" 
+U1         LT3080EST        TopLayer    LT-ST-3-SOT-223_N      2320.000      1740.000      90       "Adjustable 1.1 A Single Resistor Low Dropout Regulator, 0.3 mA Isupply, 3-pin SOT223 (ST-3), -40 to 125 degC" 
+R13        105k             TopLayer    R0805                  1840.000      980.000       90       "105 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)"                                                  
+R12        111k             TopLayer    R0805                  1840.000      1115.433      270      "111 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)"                                                  
+R11        402R             TopLayer    R0805                  1860.000      360.000       270      ""                                                                                                             
+R10        33               TopLayer    R0805                  1950.000      360.000       90       "Res Thick Film 0805 33 Ohm 1% 1/8W +/-100ppm/ßC Molded SMD Paper T/R"                                         
+R9         49R9             TopLayer    R0805                  1940.000      580.000       90       "49.9 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film"                   
+R8         30k              TopLayer    R0805                  730.000       1595.433      90       "Res Thick Film 0805 30K Ohm 5% 0.125W(1/8W) ±100ppm/C Pad SMD T/R"                                            
+R6         30k              TopLayer    R0805                  1350.000      1584.567      90       "Res Thick Film 0805 30K Ohm 5% 0.125W(1/8W) ±100ppm/C Pad SMD T/R"                                            
+R4         499k             TopLayer    R0805                  1810.000      1460.000      90       "499k kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric)"                                                 
+R3         549k             TopLayer    R0805                  2220.000      1480.000      90       "549 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, High Voltage Thick Film"     
+R2         12k              TopLayer    R0805                  730.000       1730.000      90       "Res Thick Film 0805 12K Ohm 5% 0.125W(1/8W) ±100ppm/C Pad SMD T/R"                                            
+R1         102k             TopLayer    R0805                  1350.000      1742.047      90       "Res Thick Film 0805 102K Ohm 1% 1/8W ±100ppm/°C SMD Paper T/R"                                                
+J2         SMA              BottomLayer RF249BT0050GHDW        2585.767      461.024       180      "Conn SMA 0Hz to 6GHz 50Ohm Solder RA Thru-Hole RCP Gold"                                                      
+J1         "Barrel Jack"    BottomLayer PJ-063AH               2490.945      970.000       0        "2.0 x 6.5 mm, 8.0 A, Horizontal, Through Hole, Shielded, Kinked Pins, Dc Power Jack Connector"                
+D2         Diode            TopLayer    BA679S-GS08            970.000       1890.000      180      "Diode PIN Attenuator 30V 2-Pin Mini-MELF SOD-80 T/R"                                                          
+D1         Diode            TopLayer    BA679S-GS08            1580.000      1890.000      180      "Diode PIN Attenuator 30V 2-Pin Mini-MELF SOD-80 T/R"                                                          
+C14        22uF             TopLayer    FP-CL31H-0_2-MFG       1750.000      880.000       270      "CAP CER 22UF 25V X5R 1206"                                                                                    
+C13        22uF             TopLayer    FP-CL31H-0_2-MFG       1620.000      1260.000      180      "CAP CER 22UF 25V X5R 1206"                                                                                    
+C12        2.2uF            TopLayer    CL21B225KAFNFNE        1391.339      1078.268      270      "CAP CER 2.2UF 25V X7R 0805"                                                                                   
+C11        0.1uF            TopLayer    CL21B104KACNNNC        1190.000      170.000       0        "CAP CER 0.1UF 25V X7R 0805"                                                                                   
+C10        2.2uF            TopLayer    CL21B225KAFNFNE        2031.969      355.433       270      "CAP CER 2.2UF 25V X7R 0805"                                                                                   
+C9         0.1uF            TopLayer    CL21B104KACNNNC        1340.000      350.000       0        "CAP CER 0.1UF 25V X7R 0805"                                                                                   
+C8         0.1uF            TopLayer    CL21B104KACNNNC        920.000       450.000       180      "CAP CER 0.1UF 25V X7R 0805"                                                                                   
+C7         2.2uF            TopLayer    CL21B225KAFNFNE        970.000       1510.000      180      "CAP CER 2.2UF 25V X7R 0805"                                                                                   
+C6         2.2uF            TopLayer    CL21B225KAFNFNE        2320.000      1480.000      270      "CAP CER 2.2UF 25V X7R 0805"                                                                                   
+C5         0.1uF            TopLayer    CL21B104KACNNNC        1900.000      1460.000      270      "CAP CER 0.1UF 25V X7R 0805"                                                                                   
+C4         2.2uF            TopLayer    CL21B225KAFNFNE        1573.071      1515.000      0        "CAP CER 2.2UF 25V X7R 0805"                                                                                   
+C3         2.2uF            TopLayer    CL21B225KAFNFNE        1990.000      1460.000      270      "CAP CER 2.2UF 25V X7R 0805"                                                                                   
